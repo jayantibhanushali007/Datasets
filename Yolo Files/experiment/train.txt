@@ -1,0 +1,16 @@
+/data/train/0.jpg
+/data/train/1.jpg
+/data/train/2.jpg
+/data/train/3.jpg
+/data/train/4.jpg
+/data/train/5.jpg
+/data/train/6.jpg
+/data/train/7.jpg
+/data/train/8.jpg
+/data/train/9.jpg
+/data/train/11.jpg
+/data/train/12.jpg
+/data/train/14.jpg
+/data/train/15.jpg
+/data/train/16.jpg
+/data/train/17.jpg
